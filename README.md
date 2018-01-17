@@ -80,7 +80,7 @@ With such tools you should ensure to have a **flat copper sheet** and therefore 
 
 Solder the microntroller by deploying an **huge amount of soldering on the sides** as shown here:
 
-![Alt Text](media/soldering.gif)
+<img src="media/soldering.gif"/>
 
 and then by removing it **using a desoldering trace**.
 
