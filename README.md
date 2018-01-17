@@ -60,16 +60,16 @@ In comparison to the old **[satshakit](https://github.com/satshakit/satshakit)**
 Downloads
 --
 
-**downloads:**
+**downloads (right click download as):**
 
-- [satshakit-M7 schematic](eagle/satshakit-M7/satshakit-M7.sch)
-- [satshakit-M7 board](eagle/satshakit-M7/satshakit-M7.brd)
-- [satshakit-M7 internal traces png](media/satshakit-M7-internal.png)
-- [satshakit-M7 internal cutout png](media/satshakit-M7-cutout.png)
-- [satshakit-M7 BOM ods](docs/satshakit-M7-BOM.ods)
-- [satshakit-M7 BOM xlsx](docs/satshakit-M7-BOM.xlsx)
-- [satshakit-M7 216mhz USB CubeMX example](examples/satshakit-M7-usb-216mhz.zip)
-- [satshakit-M7 blink SW4STM32 example](examples/test_blink.zip)
+- [satshakit-M7 schematic](https://github.com/satshakit/satshakit-M7/raw/master/eagle/satshakit-M7/satshakit-M7.sch)
+- [satshakit-M7 board](https://github.com/satshakit/satshakit-M7/raw/master/eagle/satshakit-M7/satshakit-M7.brd)
+- [satshakit-M7 internal traces png](https://github.com/satshakit/satshakit-M7/raw/master/media/satshakit-M7-internal.png)
+- [satshakit-M7 cutout png](https://github.com/satshakit/satshakit-M7/raw/master/media/satshakit-M7-cutout.png)
+- [satshakit-M7 BOM ods](https://github.com/satshakit/satshakit-M7/raw/master/docs/satshakit-M7-BOM.ods)
+- [satshakit-M7 BOM xlsx](https://github.com/satshakit/satshakit-M7/raw/master/docs/satshakit-M7-BOM.xlsx)
+- [satshakit-M7 216mhz USB CubeMX example](https://github.com/satshakit/satshakit-M7/raw/master/examples/satshakit-M7-usb-216mhz.zip)
+- [satshakit-M7 blink SW4STM32 example](https://github.com/satshakit/satshakit-M7/raw/master/examples/test_blink.zip)
 
 Milling and soldering tips
 --
